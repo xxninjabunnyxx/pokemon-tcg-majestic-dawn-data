@@ -1,0 +1,93 @@
+---
+id: dp5-51
+name: Aipom
+supertype: Pokémon
+subtypes:
+- Basic
+level: '15'
+hp: '60'
+types:
+- Colorless
+evolvesTo:
+- Ambipom
+attacks:
+- name: Scratch
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Last Resort
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: Flip a coin. If tails, this attack does nothing.
+weaknesses:
+- type: Fighting
+  value: "+10"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: dp5
+  name: Majestic Dawn
+  series: Diamond & Pearl
+  printedTotal: 100
+  total: 100
+  legalities:
+    unlimited: Legal
+  ptcgoCode: MD
+  releaseDate: 2008/05/01
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/dp5/symbol.png
+    logo: https://images.pokemontcg.io/dp5/logo.png
+number: '51'
+artist: Kouki Saitou
+rarity: Common
+flavorText: It uses its tail to pluck fruits that are out of reach. Its tail is more
+  adept than its real hands.
+nationalPokedexNumbers:
+- 190
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp5/51.png
+  large: https://images.pokemontcg.io/dp5/51_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp5-51
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 0.16
+      mid: 0.3
+      high: 2.72
+      market: 0.62
+      directLow: 0.2
+    reverseHolofoil:
+      low: 0.63
+      mid: 1.45
+      high: 3.0
+      market: 0.87
+      directLow: 0.21
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp5-51
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.16
+    lowPrice: 0.02
+    trendPrice: 0.16
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 0.4
+    lowPriceExPlus: 0.02
+    avg1: 0.33
+    avg7: 0.18
+    avg30: 0.13
+    reverseHoloAvg1: 0.5
+    reverseHoloAvg7: 0.3
+    reverseHoloAvg30: 0.57
